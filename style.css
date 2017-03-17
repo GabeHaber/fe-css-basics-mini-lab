@@ -1,3 +1,11 @@
+#FirstParagraph {
+  background-color: blue;
+  color: white;
+}
+#SecondParagraph {
+  font-family: barrio;
+}
+
 
 .box {
   width: 100px;
@@ -15,4 +23,32 @@
 
 #three {
   background-color: green;
+}
+#htmlfe {
+  background-image: url("https://pbs.twimg.com/media/CdCLAAsWoAEEP16.jpg");
+  
+}
+#p4 {
+ text-align: right;
+}
+#P6:hover {
+  color: orange;
+  font-family: helvetica;
+}
+
+p {
+  font-size: 20px;
+}
+#image {
+  width: 50%;
+  margin: auto;
+}
+#one:hover {
+  background-color: blue;
+}
+#two:hover {
+  border-radius: 50%;
+}
+#three:hover {
+  
 }
